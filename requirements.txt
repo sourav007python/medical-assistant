@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+langchain-classic
+langchain-openai
+langchain-pinecone==0.2.13
+pinecone[asyncio]>=6,<8
